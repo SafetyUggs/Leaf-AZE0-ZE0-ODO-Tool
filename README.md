@@ -3,3 +3,5 @@ A simple app to clone (Read & Write EEPROM data), or set a new Odometer value. V
 Requires a J2534 passthrough device (Connect to your obd2 port).
 
 I recommend an aliexpress Godiag GD101 or VNCI Nano passthrough.
+
+Buy me a coffee - help support development : https://ko-fi.com/safetyuggs
